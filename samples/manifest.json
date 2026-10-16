@@ -1,0 +1,462 @@
+{
+ "version": 1,
+ "sets": {
+  "ebass": {
+   "type": "pitched",
+   "release": 0.12,
+   "normDb": 14.62,
+   "notes": [
+    {
+     "midi": 27,
+     "layers": [
+      {
+       "files": [
+        "ebass/27_p_1",
+        "ebass/27_p_2",
+        "ebass/27_p_3"
+       ],
+       "a": 0.5443
+      }
+     ]
+    },
+    {
+     "midi": 30,
+     "layers": [
+      {
+       "files": [
+        "ebass/30_p_1",
+        "ebass/30_p_2",
+        "ebass/30_p_3"
+       ],
+       "a": 0.5254
+      }
+     ]
+    },
+    {
+     "midi": 33,
+     "layers": [
+      {
+       "files": [
+        "ebass/33_p_1",
+        "ebass/33_p_2",
+        "ebass/33_p_3"
+       ],
+       "a": 0.577
+      }
+     ]
+    },
+    {
+     "midi": 36,
+     "layers": [
+      {
+       "files": [
+        "ebass/36_p_1",
+        "ebass/36_p_2",
+        "ebass/36_p_3"
+       ],
+       "a": 0.6224
+      }
+     ]
+    },
+    {
+     "midi": 39,
+     "layers": [
+      {
+       "files": [
+        "ebass/39_p_1",
+        "ebass/39_p_2",
+        "ebass/39_p_3"
+       ],
+       "a": 0.4899
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "layers": [
+      {
+       "files": [
+        "ebass/42_p_1",
+        "ebass/42_p_2",
+        "ebass/42_p_3"
+       ],
+       "a": 0.5537
+      }
+     ]
+    },
+    {
+     "midi": 45,
+     "layers": [
+      {
+       "files": [
+        "ebass/45_p_1",
+        "ebass/45_p_2",
+        "ebass/45_p_3"
+       ],
+       "a": 0.6037
+      }
+     ]
+    },
+    {
+     "midi": 48,
+     "layers": [
+      {
+       "files": [
+        "ebass/48_p_1",
+        "ebass/48_p_2",
+        "ebass/48_p_3"
+       ],
+       "a": 0.5869
+      }
+     ]
+    },
+    {
+     "midi": 51,
+     "layers": [
+      {
+       "files": [
+        "ebass/51_p_1",
+        "ebass/51_p_2",
+        "ebass/51_p_3"
+       ],
+       "a": 0.7521
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "layers": [
+      {
+       "files": [
+        "ebass/54_p_1",
+        "ebass/54_p_2",
+        "ebass/54_p_3"
+       ],
+       "a": 0.6285
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "layers": [
+      {
+       "files": [
+        "ebass/57_p_1",
+        "ebass/57_p_2",
+        "ebass/57_p_3"
+       ],
+       "a": 0.8594
+      }
+     ]
+    },
+    {
+     "midi": 60,
+     "layers": [
+      {
+       "files": [
+        "ebass/60_p_1",
+        "ebass/60_p_2",
+        "ebass/60_p_3"
+       ],
+       "a": 0.9304
+      }
+     ]
+    },
+    {
+     "midi": 63,
+     "layers": [
+      {
+       "files": [
+        "ebass/63_p_1",
+        "ebass/63_p_2",
+        "ebass/63_p_3"
+       ],
+       "a": 1.0
+      }
+     ]
+    }
+   ],
+   "licence": "Swagbass by Karoryfer Samples (flatwound bass guitar), CC0-1.0"
+  },
+  "sticks": {
+   "type": "kit",
+   "pieces": {
+    "kick": {
+     "layers": [
+      {
+       "files": [
+        "sticks/kick_1_1",
+        "sticks/kick_1_2"
+       ],
+       "a": 0.1401
+      },
+      {
+       "files": [
+        "sticks/kick_2_1",
+        "sticks/kick_2_2"
+       ],
+       "a": 0.5014
+      },
+      {
+       "files": [
+        "sticks/kick_3_1",
+        "sticks/kick_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 0.85
+    },
+    "kickDeep": {
+     "layers": [
+      {
+       "files": [
+        "sticks/kickDeep_1_1",
+        "sticks/kickDeep_1_2"
+       ],
+       "a": 0.4451
+      },
+      {
+       "files": [
+        "sticks/kickDeep_2_1",
+        "sticks/kickDeep_2_2"
+       ],
+       "a": 0.6933
+      },
+      {
+       "files": [
+        "sticks/kickDeep_3_1",
+        "sticks/kickDeep_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -1.85
+    },
+    "snare": {
+     "layers": [
+      {
+       "files": [
+        "sticks/snare_1_1",
+        "sticks/snare_1_2"
+       ],
+       "a": 0.0553
+      },
+      {
+       "files": [
+        "sticks/snare_2_1",
+        "sticks/snare_2_2"
+       ],
+       "a": 0.1767
+      },
+      {
+       "files": [
+        "sticks/snare_3_1",
+        "sticks/snare_3_2"
+       ],
+       "a": 0.4194
+      },
+      {
+       "files": [
+        "sticks/snare_4_1",
+        "sticks/snare_4_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -4.31
+    },
+    "rim": {
+     "layers": [
+      {
+       "files": [
+        "sticks/rim_1_1",
+        "sticks/rim_1_2"
+       ],
+       "a": 0.137
+      },
+      {
+       "files": [
+        "sticks/rim_2_1",
+        "sticks/rim_2_2"
+       ],
+       "a": 0.6286
+      },
+      {
+       "files": [
+        "sticks/rim_3_1",
+        "sticks/rim_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 6.06
+    },
+    "hat": {
+     "layers": [
+      {
+       "files": [
+        "sticks/hat_1_1",
+        "sticks/hat_1_2"
+       ],
+       "a": 0.0393
+      },
+      {
+       "files": [
+        "sticks/hat_2_1",
+        "sticks/hat_2_2"
+       ],
+       "a": 0.1167
+      },
+      {
+       "files": [
+        "sticks/hat_3_1",
+        "sticks/hat_3_2"
+       ],
+       "a": 0.2217
+      },
+      {
+       "files": [
+        "sticks/hat_4_1",
+        "sticks/hat_4_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 7.09
+    },
+    "hatOpen": {
+     "layers": [
+      {
+       "files": [
+        "sticks/hatOpen_1_1",
+        "sticks/hatOpen_1_2"
+       ],
+       "a": 0.0996
+      },
+      {
+       "files": [
+        "sticks/hatOpen_2_1",
+        "sticks/hatOpen_2_2"
+       ],
+       "a": 0.1797
+      },
+      {
+       "files": [
+        "sticks/hatOpen_3_1",
+        "sticks/hatOpen_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 3.77
+    },
+    "ride": {
+     "layers": [
+      {
+       "files": [
+        "sticks/ride_1_1",
+        "sticks/ride_1_2"
+       ],
+       "a": 0.1277
+      },
+      {
+       "files": [
+        "sticks/ride_2_1",
+        "sticks/ride_2_2"
+       ],
+       "a": 0.5638
+      },
+      {
+       "files": [
+        "sticks/ride_3_1",
+        "sticks/ride_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 12.26
+    },
+    "crash": {
+     "layers": [
+      {
+       "files": [
+        "sticks/crash_1_1",
+        "sticks/crash_1_2"
+       ],
+       "a": 0.4424
+      },
+      {
+       "files": [
+        "sticks/crash_2_1",
+        "sticks/crash_2_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 13.68
+    },
+    "tomHi": {
+     "layers": [
+      {
+       "files": [
+        "sticks/tomHi_1_1",
+        "sticks/tomHi_1_2"
+       ],
+       "a": 0.3137
+      },
+      {
+       "files": [
+        "sticks/tomHi_2_1",
+        "sticks/tomHi_2_2"
+       ],
+       "a": 0.6247
+      },
+      {
+       "files": [
+        "sticks/tomHi_3_1",
+        "sticks/tomHi_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 1.31
+    },
+    "tomLo": {
+     "layers": [
+      {
+       "files": [
+        "sticks/tomLo_1_1",
+        "sticks/tomLo_1_2"
+       ],
+       "a": 0.1735
+      },
+      {
+       "files": [
+        "sticks/tomLo_2_1",
+        "sticks/tomLo_2_2"
+       ],
+       "a": 0.533
+      },
+      {
+       "files": [
+        "sticks/tomLo_3_1",
+        "sticks/tomLo_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 3.64
+    }
+   },
+   "alias": {
+    "tomFloor": {
+     "piece": "tomLo",
+     "rate": 0.8
+    }
+   },
+   "licence": "Virtuosity Drums by Versilian Studios / Karoryfer Samples, CC0-1.0"
+  }
+ },
+ "build": "202609241053"
+}

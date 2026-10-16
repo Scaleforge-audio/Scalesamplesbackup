@@ -1,0 +1,237 @@
+// Spanish classical guitar (FreePats, CC0) - cut for ScaleForge
+// Regions as in the original .sfz; loops dropped, samples cut to 10s with a fade
+// volume= per region evens the loudness (first 1.5 s, EBU R128) to the set median -16.8 LUFS
+<global>
+ ampeg_release=1.5
+ // tone and variation, read by hd.js [H45]: softer = darker, a little random level / pitch / tone / start
+ cutoff=1000 fil_veltrack=5000 fil_random=150
+ amp_random=1.5 pitch_random=5 offset_random=220
+
+<region>
+ lokey=29 hikey=31 pitch_keycenter=31
+ sample=31.ogg
+ volume=-4.2
+
+<region>
+ lokey=32 hikey=32 pitch_keycenter=32
+ sample=32.ogg
+ volume=-3.6
+
+<region>
+ lokey=33 hikey=33 pitch_keycenter=33
+ sample=33.ogg
+ volume=-6
+
+<region>
+ lokey=34 hikey=34 pitch_keycenter=34
+ sample=34.ogg
+ volume=-4.8
+
+<region>
+ lokey=35 hikey=35 pitch_keycenter=35
+ sample=35.ogg
+ volume=-3.7
+
+<region>
+ lokey=36 hikey=36 pitch_keycenter=36
+ sample=36.ogg
+
+<region>
+ lokey=37 hikey=37 pitch_keycenter=37
+ sample=37.ogg
+
+<region>
+ lokey=38 hikey=38 pitch_keycenter=38
+ sample=38.ogg
+
+<region>
+ lokey=39 hikey=39 pitch_keycenter=39
+ sample=39.ogg
+ volume=-1.6
+
+<region>
+ lokey=40 hikey=40 pitch_keycenter=40
+ sample=40.ogg
+ volume=-2.7
+
+<region>
+ lokey=41 hikey=41 pitch_keycenter=41
+ sample=41.ogg
+ volume=0.8
+
+<region>
+ lokey=42 hikey=43 pitch_keycenter=43
+ sample=43.ogg
+
+<region>
+ lokey=44 hikey=45 pitch_keycenter=45
+ sample=45.ogg
+ volume=2.1
+
+<region>
+ lokey=46 hikey=47 pitch_keycenter=47
+ sample=47.ogg
+ volume=1.4
+
+<region>
+ lokey=48 hikey=48 pitch_keycenter=48
+ sample=48.ogg
+ volume=2.9
+
+<region>
+ lokey=49 hikey=50 pitch_keycenter=50
+ sample=50.ogg
+
+<region>
+ lokey=51 hikey=52 pitch_keycenter=52
+ sample=52.ogg
+
+<region>
+ lokey=53 hikey=53 pitch_keycenter=53
+ sample=53.ogg
+ volume=-0.9
+
+<region>
+ lokey=54 hikey=54 pitch_keycenter=54
+ sample=54.ogg
+ volume=-4.2
+
+<region>
+ lokey=55 hikey=55 pitch_keycenter=55
+ sample=55.ogg
+ volume=2.1
+
+<region>
+ lokey=56 hikey=56 pitch_keycenter=56
+ sample=56.ogg
+ volume=-0.6
+
+<region>
+ lokey=57 hikey=57 pitch_keycenter=57
+ sample=57.ogg
+ volume=0.8
+
+<region>
+ lokey=58 hikey=58 pitch_keycenter=58
+ sample=58.ogg
+ volume=-2.1
+
+<region>
+ lokey=59 hikey=59 pitch_keycenter=59
+ sample=59.ogg
+ volume=-2.1
+
+<region>
+ lokey=60 hikey=60 pitch_keycenter=60
+ sample=60.ogg
+ volume=2.9
+
+<region>
+ lokey=61 hikey=61 pitch_keycenter=61
+ sample=61.ogg
+ volume=1.1
+
+<region>
+ lokey=62 hikey=62 pitch_keycenter=62
+ sample=62.ogg
+ volume=0.6
+
+<region>
+ lokey=63 hikey=63 pitch_keycenter=63
+ sample=63.ogg
+ volume=-1.8
+
+<region>
+ lokey=64 hikey=64 pitch_keycenter=64
+ sample=64.ogg
+ volume=2.4
+
+<region>
+ lokey=65 hikey=65 pitch_keycenter=65
+ sample=65.ogg
+ volume=1.6
+
+<region>
+ lokey=66 hikey=66 pitch_keycenter=66
+ sample=66.ogg
+
+<region>
+ lokey=67 hikey=67 pitch_keycenter=67
+ sample=67.ogg
+
+<region>
+ lokey=68 hikey=69 pitch_keycenter=69
+ sample=69.ogg
+ volume=-4.6
+
+<region>
+ lokey=70 hikey=70 pitch_keycenter=70
+ sample=70.ogg
+ volume=5.9
+
+<region>
+ lokey=71 hikey=71 pitch_keycenter=71
+ sample=71.ogg
+
+<region>
+ lokey=72 hikey=72 pitch_keycenter=72
+ sample=72.ogg
+ volume=4.4
+
+<region>
+ lokey=73 hikey=73 pitch_keycenter=73
+ sample=73.ogg
+ volume=-1.2
+
+<region>
+ lokey=74 hikey=74 pitch_keycenter=74
+ sample=74.ogg
+
+<region>
+ lokey=75 hikey=75 pitch_keycenter=75
+ sample=75.ogg
+ volume=4.1
+
+<region>
+ lokey=76 hikey=76 pitch_keycenter=76
+ sample=76.ogg
+ volume=3.9
+
+<region>
+ lokey=77 hikey=77 pitch_keycenter=77
+ sample=77.ogg
+ volume=1.2
+
+<region>
+ lokey=78 hikey=78 pitch_keycenter=78
+ sample=78.ogg
+ volume=1.2
+
+<region>
+ lokey=79 hikey=79 pitch_keycenter=79
+ sample=79.ogg
+ volume=-1.7
+
+<region>
+ lokey=80 hikey=80 pitch_keycenter=80
+ sample=80.ogg
+ volume=-1.4
+
+<region>
+ lokey=81 hikey=81 pitch_keycenter=81
+ sample=81.ogg
+ volume=-1.2
+
+<region>
+ lokey=82 hikey=82 pitch_keycenter=82
+ sample=82.ogg
+
+<region>
+ lokey=83 hikey=83 pitch_keycenter=83
+ sample=83.ogg
+ volume=1.6
+
+<region>
+ lokey=84 hikey=88 pitch_keycenter=84
+ sample=84.ogg
+ volume=5.1

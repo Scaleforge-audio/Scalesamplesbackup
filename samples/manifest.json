@@ -456,6 +456,392 @@
     }
    },
    "licence": "Virtuosity Drums by Versilian Studios / Karoryfer Samples, CC0-1.0"
+  },
+  "perc": {
+   "type": "kit",
+   "pieces": {
+    "clap": {
+     "layers": [
+      {
+       "files": [
+        "perc/clap_1_1",
+        "perc/clap_1_2",
+        "perc/clap_1_3",
+        "perc/clap_1_4",
+        "perc/clap_1_5",
+        "perc/clap_1_6"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -0.95
+    },
+    "castanets": {
+     "layers": [
+      {
+       "files": [
+        "perc/castanets_1_1",
+        "perc/castanets_1_2",
+        "perc/castanets_1_3",
+        "perc/castanets_1_4",
+        "perc/castanets_1_5",
+        "perc/castanets_1_6"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -1.45
+    },
+    "quintoOpen": {
+     "layers": [
+      {
+       "files": [
+        "perc/quintoOpen_1_1",
+        "perc/quintoOpen_1_2"
+       ],
+       "a": 0.1415
+      },
+      {
+       "files": [
+        "perc/quintoOpen_2_1",
+        "perc/quintoOpen_2_2"
+       ],
+       "a": 0.3421
+      },
+      {
+       "files": [
+        "perc/quintoOpen_3_1",
+        "perc/quintoOpen_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 10.56
+    },
+    "quintoMute": {
+     "layers": [
+      {
+       "files": [
+        "perc/quintoMute_1_1",
+        "perc/quintoMute_1_2"
+       ],
+       "a": 0.0852
+      },
+      {
+       "files": [
+        "perc/quintoMute_2_1",
+        "perc/quintoMute_2_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 14.17
+    },
+    "congaOpen": {
+     "layers": [
+      {
+       "files": [
+        "perc/congaOpen_1_1",
+        "perc/congaOpen_1_2"
+       ],
+       "a": 0.2116
+      },
+      {
+       "files": [
+        "perc/congaOpen_2_1",
+        "perc/congaOpen_2_2"
+       ],
+       "a": 0.6708
+      },
+      {
+       "files": [
+        "perc/congaOpen_3_1",
+        "perc/congaOpen_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 13.11
+    },
+    "congaMute": {
+     "layers": [
+      {
+       "files": [
+        "perc/congaMute_1_1",
+        "perc/congaMute_1_2"
+       ],
+       "a": 0.2204
+      },
+      {
+       "files": [
+        "perc/congaMute_2_1",
+        "perc/congaMute_2_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 7.63
+    },
+    "tumbaOpen": {
+     "layers": [
+      {
+       "files": [
+        "perc/tumbaOpen_1_1",
+        "perc/tumbaOpen_1_2"
+       ],
+       "a": 0.0833
+      },
+      {
+       "files": [
+        "perc/tumbaOpen_2_1",
+        "perc/tumbaOpen_2_2"
+       ],
+       "a": 0.2717
+      },
+      {
+       "files": [
+        "perc/tumbaOpen_3_1",
+        "perc/tumbaOpen_3_2"
+       ],
+       "a": 0.5054
+      },
+      {
+       "files": [
+        "perc/tumbaOpen_4_1",
+        "perc/tumbaOpen_4_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 14.22
+    },
+    "tumbaMute": {
+     "layers": [
+      {
+       "files": [
+        "perc/tumbaMute_1_1",
+        "perc/tumbaMute_1_2"
+       ],
+       "a": 0.2183
+      },
+      {
+       "files": [
+        "perc/tumbaMute_2_1",
+        "perc/tumbaMute_2_2"
+       ],
+       "a": 0.6302
+      },
+      {
+       "files": [
+        "perc/tumbaMute_3_1",
+        "perc/tumbaMute_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 10.67
+    },
+    "cajon1": {
+     "layers": [
+      {
+       "files": [
+        "perc/cajon1_1_1",
+        "perc/cajon1_1_2"
+       ],
+       "a": 0.1709
+      },
+      {
+       "files": [
+        "perc/cajon1_2_1",
+        "perc/cajon1_2_2"
+       ],
+       "a": 0.4021
+      },
+      {
+       "files": [
+        "perc/cajon1_3_1",
+        "perc/cajon1_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -2.71
+    },
+    "cajon2": {
+     "layers": [
+      {
+       "files": [
+        "perc/cajon2_1_1",
+        "perc/cajon2_1_2"
+       ],
+       "a": 0.1329
+      },
+      {
+       "files": [
+        "perc/cajon2_2_1",
+        "perc/cajon2_2_2"
+       ],
+       "a": 0.5191
+      },
+      {
+       "files": [
+        "perc/cajon2_3_1",
+        "perc/cajon2_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -1.54
+    },
+    "cajon3": {
+     "layers": [
+      {
+       "files": [
+        "perc/cajon3_1_1",
+        "perc/cajon3_1_2"
+       ],
+       "a": 0.2525
+      },
+      {
+       "files": [
+        "perc/cajon3_2_1",
+        "perc/cajon3_2_2"
+       ],
+       "a": 0.6762
+      },
+      {
+       "files": [
+        "perc/cajon3_3_1",
+        "perc/cajon3_3_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": -3.85
+    },
+    "cabasaHit": {
+     "layers": [
+      {
+       "files": [
+        "perc/cabasaHit_1_1",
+        "perc/cabasaHit_1_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 17.75
+    },
+    "cabasaRub": {
+     "layers": [
+      {
+       "files": [
+        "perc/cabasaRub_1_1",
+        "perc/cabasaRub_1_2"
+       ],
+       "a": 0.24
+      },
+      {
+       "files": [
+        "perc/cabasaRub_2_1",
+        "perc/cabasaRub_2_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 19.21
+    },
+    "tamb1Hit": {
+     "layers": [
+      {
+       "files": [
+        "perc/tamb1Hit_1_1"
+       ],
+       "a": 0.2925
+      },
+      {
+       "files": [
+        "perc/tamb1Hit_2_1"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 17.51
+    },
+    "tamb1Shake": {
+     "layers": [
+      {
+       "files": [
+        "perc/tamb1Shake_1_1",
+        "perc/tamb1Shake_1_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 24.15
+    },
+    "tamb2Hit": {
+     "layers": [
+      {
+       "files": [
+        "perc/tamb2Hit_1_1"
+       ],
+       "a": 0.2952
+      },
+      {
+       "files": [
+        "perc/tamb2Hit_2_1"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 13.66
+    },
+    "tamb2Shake": {
+     "layers": [
+      {
+       "files": [
+        "perc/tamb2Shake_1_1",
+        "perc/tamb2Shake_1_2"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 23.16
+    },
+    "woodblock": {
+     "layers": [
+      {
+       "files": [
+        "perc/woodblock_1_1",
+        "perc/woodblock_1_2",
+        "perc/woodblock_1_3"
+       ],
+       "a": 0.0779
+      },
+      {
+       "files": [
+        "perc/woodblock_2_1"
+       ],
+       "a": 0.1585
+      },
+      {
+       "files": [
+        "perc/woodblock_3_1",
+        "perc/woodblock_3_2"
+       ],
+       "a": 0.9634
+      },
+      {
+       "files": [
+        "perc/woodblock_4_1"
+       ],
+       "a": 1.0
+      }
+     ],
+     "normDb": 5.12
+    }
+   },
+   "licence": "FreePats World Percussion (clap, castanets) and VCSL by Versilian Studios (the rest), CC0-1.0"
   }
  },
  "build": "202609241053"

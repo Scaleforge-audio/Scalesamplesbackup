@@ -777,7 +777,8 @@
        "a": 1.0
       }
      ],
-     "normDb": 24.15
+     "normDb": 24.15,
+     "lead": 0.025
     },
     "tamb2Hit": {
      "layers": [
@@ -806,7 +807,8 @@
        "a": 1.0
       }
      ],
-     "normDb": 23.16
+     "normDb": 23.16,
+     "lead": 0.025
     },
     "woodblock": {
      "layers": [
@@ -842,7 +844,982 @@
     }
    },
    "licence": "FreePats World Percussion (clap, castanets) and VCSL by Versilian Studios (the rest), CC0-1.0"
+  },
+  "j4MellowOrgan": {
+   "type": "pitched",
+   "release": 0.06,
+   "cents": -20,
+   "licence": "Roland Jupiter-4 (1978) by publicsamples / modularsamples, public domain (The Unlicense)",
+   "notes": [
+    {
+     "midi": 36,
+     "loop": [
+      2.4,
+      4.871678
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/36"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 39,
+     "loop": [
+      2.4,
+      4.87771
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/39"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "loop": [
+      2.4,
+      4.870476
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/42"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 45,
+     "loop": [
+      2.4,
+      4.871859
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/45"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 48,
+     "loop": [
+      2.4,
+      4.874082
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/48"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 51,
+     "loop": [
+      2.4,
+      4.926508
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/51"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "loop": [
+      2.4,
+      4.925351
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/54"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "loop": [
+      2.4,
+      4.871111
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/57"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 60,
+     "loop": [
+      2.4,
+      4.872472
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/60"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 63,
+     "loop": [
+      2.4,
+      4.873197
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/63"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 66,
+     "loop": [
+      2.4,
+      4.871383
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/66"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 69,
+     "loop": [
+      2.4,
+      4.928912
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/69"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 72,
+     "loop": [
+      2.4,
+      4.87034
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4MellowOrgan/72"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ],
+   "normDb": -7.11
+  },
+  "junoOpenPad": {
+   "type": "pitched",
+   "release": 0.35,
+   "cents": 1,
+   "licence": "Roland Juno-6 (1982) by publicsamples / modularsamples, public domain (The Unlicense)",
+   "notes": [
+    {
+     "midi": 38,
+     "loop": [
+      2.4,
+      4.918617
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/38"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "loop": [
+      2.4,
+      4.928118
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/42"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 46,
+     "loop": [
+      2.4,
+      4.929524
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/46"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 50,
+     "loop": [
+      2.4,
+      4.876689
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/50"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "loop": [
+      2.4,
+      4.927483
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/54"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "loop": [
+      2.4,
+      4.92873
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/junoOpenPad/57"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ],
+   "normDb": -9.14
+  },
+  "j4BabyBrass": {
+   "type": "pitched",
+   "release": 0.35,
+   "cents": 21,
+   "licence": "Roland Jupiter-4 (1978) by publicsamples / modularsamples, public domain (The Unlicense)",
+   "notes": [
+    {
+     "midi": 36,
+     "loop": [
+      2.4,
+      4.877166
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/36"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 39,
+     "loop": [
+      2.4,
+      4.916825
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/39"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "loop": [
+      2.4,
+      4.912948
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/42"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 45,
+     "loop": [
+      2.4,
+      4.900408
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/45"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 48,
+     "loop": [
+      2.4,
+      4.87873
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/48"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 51,
+     "loop": [
+      2.4,
+      4.92737
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/51"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "loop": [
+      2.4,
+      4.921043
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/54"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "loop": [
+      2.4,
+      4.918005
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/57"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 60,
+     "loop": [
+      2.4,
+      4.899229
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/60"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 63,
+     "loop": [
+      2.4,
+      4.89381
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/63"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 66,
+     "loop": [
+      2.4,
+      4.92907
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/66"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 69,
+     "loop": [
+      2.4,
+      4.916689
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/69"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 72,
+     "loop": [
+      2.4,
+      4.877188
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4BabyBrass/72"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ],
+   "normDb": -7.7
+  },
+  "j4ElecPiano": {
+   "type": "pitched",
+   "release": 0.35,
+   "cents": 10,
+   "licence": "Roland Jupiter-4 (1978) by publicsamples / modularsamples, public domain (The Unlicense)",
+   "notes": [
+    {
+     "midi": 36,
+     "loop": [
+      3.6,
+      5.573129
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/36"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 39,
+     "loop": [
+      3.6,
+      5.575465
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/39"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "loop": [
+      3.6,
+      5.586168
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/42"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 45,
+     "loop": [
+      3.6,
+      5.577551
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/45"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 48,
+     "loop": [
+      3.6,
+      5.575079
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/48"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 51,
+     "loop": [
+      3.6,
+      5.597823
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/51"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "loop": [
+      3.6,
+      5.574785
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/54"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "loop": [
+      3.6,
+      5.576032
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/57"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 60,
+     "loop": [
+      3.6,
+      5.57322
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/60"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 63,
+     "loop": [
+      3.6,
+      5.572744
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/63"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 66,
+     "loop": [
+      3.6,
+      5.571995
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/66"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 69,
+     "loop": [
+      3.6,
+      5.5739
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/69"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 72,
+     "loop": [
+      3.6,
+      5.571134
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/j4ElecPiano/72"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ],
+   "normDb": -7.56
+  },
+  "twBubble": {
+   "type": "pitched",
+   "release": 0.06,
+   "cents": 0,
+   "licence": "rendered for ScaleForge (additive tonewheel model, no recording) - no licence",
+   "notes": [
+    {
+     "midi": 36,
+     "loop": [
+      2.4,
+      4.87678
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/36"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 39,
+     "loop": [
+      2.4,
+      4.894059
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/39"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 42,
+     "loop": [
+      2.4,
+      4.886463
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/42"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 45,
+     "loop": [
+      2.4,
+      4.872698
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/45"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 48,
+     "loop": [
+      2.4,
+      4.87678
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/48"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 51,
+     "loop": [
+      2.4,
+      4.881247
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/51"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 54,
+     "loop": [
+      2.4,
+      4.875669
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/54"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 57,
+     "loop": [
+      2.4,
+      4.872698
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/57"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 60,
+     "loop": [
+      2.4,
+      4.87678
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/60"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 63,
+     "loop": [
+      2.4,
+      4.874853
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/63"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 66,
+     "loop": [
+      2.4,
+      4.870295
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/66"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 69,
+     "loop": [
+      2.4,
+      4.872698
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/69"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 72,
+     "loop": [
+      2.4,
+      4.872971
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/72"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 75,
+     "loop": [
+      2.4,
+      4.871655
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/75"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 78,
+     "loop": [
+      2.4,
+      4.870295
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/78"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 81,
+     "loop": [
+      2.4,
+      4.870454
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/81"
+       ],
+       "a": 1
+      }
+     ]
+    },
+    {
+     "midi": 84,
+     "loop": [
+      2.4,
+      4.871066
+     ],
+     "layers": [
+      {
+       "files": [
+        "keys/twBubble/84"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ],
+   "normDb": -5.38
   }
  },
- "build": "202609241053"
+ "build": "202611061512"
 }
